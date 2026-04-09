@@ -1,19 +1,78 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">Building systems, automating workflows, solving problems. Ctrl+C, Ctrl+V, but smarter</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammad-ahmad-ggs" alt="muhammad-ahmad-ggs" /></a> </p>
+<h3 align="center">
+🚀 Full-Stack Developer | ⚡ Automation Enthusiast | 🧠 Problem Solver  
+</h3>
 
-- 🌱 I’m currently learning **Cyber security**
-
-- 💬 Ask me about **ANYTHING YOU WANT (If I don't know then I'll learn it first for you :> )**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Building systems, automating workflows, and turning ideas into reality.  
+<br/>
+<em>“Ctrl+C, Ctrl+V… but smarter.”</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
+## 💻 About Me
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ahmad1425"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ahmad1425" /></a></p><br><br>
+- 🎯 18 y/o developer passionate about building real-world projects  
+- ⚡ I love solving challenges and learning new tech fast  
+- 🤖 Into automation (n8n, workflows, AI tools)  
+- 🧠 If I don’t know something → I learn it and get good at it  
+- 🐧 Arch Linux user btw  
+
+---
+
+## 🚀 What I Do
+
+- 🌐 Build full-stack web applications  
+- ⚙️ Automate boring stuff (workflows, scripts, tools)  
+- 🧪 Experiment with new technologies  
+- 🤖 Use AI to work smarter & faster  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,python,rust,go,c,docker,firebase,linux,tailwind,figma" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad-ggs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmad-ggs&show_icons=true&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎮 Fun Side
+
+- 🔫 Valorant player (sometimes cracked, sometimes not 💀)  
+- 💡 Always thinking about new ideas  
+- 🧠 “Vibe coding” but actually shipping stuff  
+
+---
+
+## ☕ Support Me
+
+If you like my work or it helped you:
+
+<p>
+<a href="https://ko-fi.com/ahmad1425">
+<img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" />
+</a>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 💬 Ask me anything (I’ll learn it if I don’t know it 😄)
+- 🚀 Open to collaborations & cool projects  
+
+---
+
+⭐ *“Build. Break. Learn. Repeat.”*
