@@ -42,8 +42,8 @@ Building systems, automating workflows, and turning ideas into reality.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muhammad-ahmad-ggs&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammad-ahmad-ggs&show_icons=true&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=muhammad-ahmad-ggs&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=muhammad-ahmad-ggs&show_icons=true&layout=compact&theme=tokyonight" />
 </p>
 
 ---
